@@ -1,0 +1,69 @@
+14.12.2025, 17:31:59 - INFO - Server listening on port http://127.0.0.1:3030/
+14.12.2025, 17:32:50 - INFO - Server listening on port http://127.0.0.1:3030/
+14.12.2025, 17:34:50 - INFO - Server listening on port http://127.0.0.1:3030/
+14.12.2025, 17:35:29 - INFO - Server listening on port http://127.0.0.1:3030/
+14.12.2025, 17:43:14 - DEBUG - auth.service - login with username: cc
+14.12.2025, 17:43:14 - INFO - User login:  | {"_id":"67a8c0995cc37ad936bf25de","username":"cc","fullname":"cc","isAdmin":false}
+14.12.2025, 17:43:29 - DEBUG - auth.service - login with username: bob
+14.12.2025, 17:43:29 - INFO - User login:  | {"_id":"66b4d9691fb12d86566a8f32","username":"bob","fullname":"bob","isAdmin":true,"score":0}
+14.12.2025, 17:43:39 - DEBUG - auth.service - login with username: cc
+14.12.2025, 17:43:39 - INFO - User login:  | {"_id":"67a8c0995cc37ad936bf25de","username":"cc","fullname":"cc","isAdmin":false}
+14.12.2025, 17:47:47 - INFO - Server listening on port http://127.0.0.1:3030/
+14.12.2025, 17:48:32 - DEBUG - auth.service - login with username: cc
+14.12.2025, 17:48:32 - INFO - User login:  | {"_id":"67a8c0995cc37ad936bf25de","username":"cc","fullname":"cc","isAdmin":false}
+15.12.2025, 8:19:37 - INFO - Server listening on port http://127.0.0.1:3030/
+15.12.2025, 8:35:46 - INFO - Server listening on port http://127.0.0.1:3030/
+15.12.2025, 8:36:15 - INFO - Server listening on port http://127.0.0.1:3030/
+15.12.2025, 8:38:50 - INFO - Server listening on port http://127.0.0.1:3030/
+15.12.2025, 8:38:59 - DEBUG - auth.service - login with username: cc
+15.12.2025, 8:38:59 - INFO - User login:  | {"_id":"67a8c0995cc37ad936bf25de","username":"cc","fullname":"cc","isAdmin":false}
+15.12.2025, 8:39:10 - DEBUG - auth.service - login with username: bob
+15.12.2025, 8:39:10 - INFO - User login:  | {"_id":"66b4d9691fb12d86566a8f32","username":"bob","fullname":"bob","isAdmin":true,"score":0}
+15.12.2025, 8:41:42 - INFO - Server listening on port http://127.0.0.1:3030/
+15.12.2025, 8:43:35 - INFO - Server listening on port http://127.0.0.1:3030/
+15.12.2025, 8:48:28 - INFO - Server listening on port http://127.0.0.1:3030/
+15.12.2025, 8:49:43 - INFO - Server listening on port http://127.0.0.1:3030/
+15.12.2025, 8:54:23 - INFO - Server listening on port http://127.0.0.1:3030/
+15.12.2025, 9:02:21 - INFO - Server listening on port http://127.0.0.1:3030/
+21.12.2025, 16:38:14 - INFO - Server listening on port http://127.0.0.1:3030/
+21.12.2025, 16:38:25 - INFO - Server listening on port http://127.0.0.1:3030/
+21.12.2025, 16:38:45 - DEBUG - auth.service - login with username: cc
+21.12.2025, 16:38:45 - INFO - User login:  | {"_id":"67a8c0995cc37ad936bf25de","username":"cc","fullname":"cc","isAdmin":false}
+21.12.2025, 16:42:39 - DEBUG - auth.service - login with username: bob
+21.12.2025, 16:42:39 - INFO - User login:  | {"_id":"66b4d9691fb12d86566a8f32","username":"bob","fullname":"bob","isAdmin":true,"score":0}
+21.12.2025, 17:36:17 - INFO - Server listening on port http://127.0.0.1:3030/
+21.12.2025, 17:38:20 - INFO - Server listening on port http://127.0.0.1:3030/
+21.12.2025, 17:58:01 - INFO - Server listening on port http://127.0.0.1:3030/
+21.12.2025, 18:07:11 - DEBUG - auth.service - login with username: bob
+21.12.2025, 18:07:11 - INFO - User login:  | {"_id":"66b4d9691fb12d86566a8f32","username":"bob","fullname":"bob","isAdmin":true,"score":0}
+21.12.2025, 18:07:21 - DEBUG - auth.service - login with username: cc
+21.12.2025, 18:07:21 - INFO - User login:  | {"_id":"67a8c0995cc37ad936bf25de","username":"cc","fullname":"cc","isAdmin":false}
+21.12.2025, 18:30:07 - DEBUG - auth.service - login with username: bob
+21.12.2025, 18:30:07 - INFO - User login:  | {"_id":"66b4d9691fb12d86566a8f32","username":"bob","fullname":"bob","isAdmin":true,"score":0}
+27.12.2025, 19:58:45 - INFO - Server listening on port http://127.0.0.1:3030/
+27.12.2025, 20:00:59 - INFO - Server listening on port http://127.0.0.1:3030/
+27.12.2025, 20:04:53 - INFO - Server listening on port http://127.0.0.1:3030/
+27.12.2025, 20:06:42 - INFO - Server listening on port http://127.0.0.1:3030/
+27.12.2025, 20:07:20 - INFO - Server listening on port http://127.0.0.1:3030/
+27.12.2025, 20:08:14 - DEBUG - auth.service - login with username: admin
+27.12.2025, 20:08:14 - ERROR - Failed to Login Error: Invalid username or password
+27.12.2025, 20:08:16 - DEBUG - auth.service - login with username: admin
+27.12.2025, 20:08:16 - ERROR - Failed to Login Error: Invalid username or password
+27.12.2025, 20:08:17 - DEBUG - auth.service - login with username: admin
+27.12.2025, 20:08:17 - ERROR - Failed to Login Error: Invalid username or password
+27.12.2025, 20:08:30 - DEBUG - auth.service - login with username: admin
+27.12.2025, 20:08:30 - ERROR - Failed to Login Error: Invalid username or password
+27.12.2025, 20:08:40 - DEBUG - auth.service - signup with username: admin, fullname: yonat
+27.12.2025, 20:08:40 - ERROR - cannot insert user | Error: Username taken
+27.12.2025, 20:08:40 - ERROR - Failed to signup Error: Username taken
+27.12.2025, 20:08:54 - DEBUG - auth.service - signup with username: yonat, fullname: yonat
+27.12.2025, 20:08:55 - ERROR - cannot insert user | Error: Username taken
+27.12.2025, 20:08:55 - ERROR - Failed to signup Error: Username taken
+27.12.2025, 20:09:09 - DEBUG - auth.service - login with username: yonat
+27.12.2025, 20:09:09 - ERROR - Failed to Login Error: Invalid username or password
+27.12.2025, 20:09:21 - DEBUG - auth.service - signup with username: yonatm, fullname: yonatm
+27.12.2025, 20:09:21 - DEBUG - auth.route - new account created: {"username":"yonatm","password":"$2b$10$2qKd8o6WfXu83uHedO1H4.GCezqVCAaGpDEH/6eXD7dxCtRerIMRe","fullname":"yonatm","isAdmin":false,"_id":"695020d140541e652422aab7"}
+27.12.2025, 20:09:21 - DEBUG - auth.service - login with username: yonatm
+27.12.2025, 20:10:27 - ERROR - while finding toy doXC4 | BSONError: hex string must be 24 characters
+27.12.2025, 20:10:27 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+27.12.2025, 20:33:06 - INFO - Server listening on port http://127.0.0.1:3030/
